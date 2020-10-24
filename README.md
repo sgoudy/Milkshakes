@@ -6,7 +6,7 @@ Simple webpage built on pure JavaScript, HTML & CSS.
 * Learning Python at the moment so it was good to get back to the basics on this.. 
 
 ## Screenshot
-![Milkshakes](images/milkshake840_1280.png?raw=true "Milkshakes")
+![Milkshakes](images/milkshakess.png?raw=true "Milkshakes")
 
 ## Tech
 <b>Built with</b>
