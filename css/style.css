@@ -1,0 +1,71 @@
+body{
+    background: url("../images/milkshake840_1280.png");
+    background-color: lightblue;
+}
+
+button{
+    color: white;
+    background: #0a5543;
+    font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+    padding: 10px 14px 12px;
+    font-size: 14px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+div.form {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="radio"]{
+    height: 40px;
+    width: 80px;
+    margin-left: 2%;
+    vertical-align: middle;
+}
+
+input[name="tip"]{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.border{
+    border-top: 2px solid black;
+    display: inline;
+}
+
+.boxed{
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.calc{
+    margin-top: 20px;
+}
+
+.qty{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-bottom: 10px;
+    float: left
+}
+
+.text{
+    border: 1px solid black;
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    width: 100px;
+    height: 30px;
+    float: right
+}
