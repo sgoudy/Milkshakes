@@ -170,6 +170,7 @@ function tipValid(e){
 	tip = parseFloat(tipVal.value);
     const testName = /^\$?([1-9]{1}[0-9]{0,2}(\,[0-9]{3})*(\.[0-9]{0,2})?|[1-9]{1}[0-9]{0,}(\.[0-9]{0,2})?|0(\.[0-9]{0,2})?|(\.[0-9]{1,2})?)$/.test(tip);
 	if (testName === true){
+        tipVal.style.borderColor = 'blue';
         salesTax();
 	} else {tipVal.style.borderColor = 'red';
     tip = 0;
