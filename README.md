@@ -5,6 +5,9 @@ Simple webpage built on pure JavaScript, HTML & CSS.
 * Self-taught Full-Stack JavaScript developer about to begin my M.S. in Software Development at BU. 
 * Learning Python at the moment so it was good to get back to the basics on this.. 
 
+## Screenshot
+![Milkshakes](images/milkshake840_1280.png?raw=true "Milkshakes")
+
 ## Tech
 <b>Built with</b>
 - [VSCode](https://code.visualstudio.com/)
